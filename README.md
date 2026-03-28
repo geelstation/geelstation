@@ -1,38 +1,57 @@
 <div align="center">
   <h1>👋 مرحباً! أنا اسماعيل علي</h1>
-  <p>💻 مطور برمجيات | 🌐 Web & Mobile | 🤖 AI Enthusiast | 🚀 Open Source Contributor</p>
+  <p>💻 مطور برمجيات | 🌐 Web & Mobile Developer | 🤖 AI Enthusiast | 🚀 Open Source Contributor</p>
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=geelstation&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <!-- GitHub Stats Neon -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=geelstation&show_icons=true&theme=radical&border_radius=20&count_private=true&hide_title=true" alt="GitHub Stats"/>
   <br>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=geelstation&theme=dark" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=geelstation&theme=radical&border_radius=20" alt="GitHub Streak"/>
 </div>
 
 ---
 
-### 🧰 المهارات التقنية
+### 🛠️ المهارات التقنية العامة
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-6610F2?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F0F000?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-2980B9?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flutter-00FFFF?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 🔥 مشاريع مميزة
+### 🤖 مهارات الذكاء الاصطناعي (AI)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF00FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-00FFFF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-FF5733?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-6610F2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-00FF00?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
+---
+
+### 🔥 مشاريع بارزة
 
 <p align="center">
   <a href="https://github.com/geelstation/drow-cam">
-    <img src="https://img.shields.io/badge/📷-drow--cam-blue?style=for-the-badge&logo=appveyor">
+    <img src="https://img.shields.io/badge/📷-Drow-Cam-FF00FF?style=for-the-badge&logo=appveyor&logoColor=white"/>
   </a>
   <a href="https://github.com/geelstation/web">
-    <img src="https://img.shields.io/badge/🌐-web-green?style=for-the-badge&logo=google-chrome">
+    <img src="https://img.shields.io/badge/🌐-Web-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://github.com/geelstation/login%20ui%20flutter">
-    <img src="https://img.shields.io/badge/📱-login_UI_flutter-purple?style=for-the-badge&logo=flutter">
+    <img src="https://img.shields.io/badge/📱-Login_UI_Flutter-FF00FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/geelstation/Project4">
+    <img src="https://img.shields.io/badge/⚡-Project4-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/geelstation/AI-Project">
+    <img src="https://img.shields.io/badge/🤖-AI-Project-FF5733?style=for-the-badge&logo=openai&logoColor=white"/>
   </a>
 </p>
 
@@ -40,8 +59,8 @@
 
 ### 🌱 أتعلم حالياً
 
-- تقنيات الذكاء الاصطناعي الحديثة 🤖  
-- تطوير تطبيقات ويب تفاعلية 🌐  
+- تقنيات الذكاء الاصطناعي المتقدمة 🤖  
+- تطوير تطبيقات ويب وموبايل تفاعلية 🌐📱  
 - تحسين الأداء والكفاءة في المشاريع المفتوحة المصدر ⚡
 
 ---
@@ -58,4 +77,4 @@
 ---
 
 > “يا سادتي اني اسافر في قطار مدامعي” 🚆  
-*(الوصف الشخصي بأسلوب فني وجذاب)*
+*(الوصف الشخصي بأسلوب Neon جذاب واحترافي)*
