@@ -37,23 +37,15 @@
 
 ### 🔥 مشاريع بارزة
 
-<p align="center">
-  <a href="https://github.com/geelstation/drow-cam">
-    <img src="https://img.shields.io/badge/📷-Drow-Cam-FF00FF?style=for-the-badge&logo=appveyor&logoColor=white"/>
-  </a>
-  <a href="https://github.com/geelstation/web">
-    <img src="https://img.shields.io/badge/🌐-Web-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/geelstation/login%20ui%20flutter">
-    <img src="https://img.shields.io/badge/📱-Login_UI_Flutter-FF00FF?style=for-the-badge&logo=flutter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/geelstation/Project4">
-    <img src="https://img.shields.io/badge/⚡-Project4-00FF00?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/geelstation/AI-Project">
-    <img src="https://img.shields.io/badge/🤖-AI-Project-FF5733?style=for-the-badge&logo=openai&logoColor=white"/>
-  </a>
-</p>
+<div align="left">
+
+- <a href="https://github.com/geelstation/drow-cam"><img src="https://img.shields.io/badge/📷-Drow-Cam-FF00FF?style=for-the-badge&logo=appveyor&logoColor=white"/> Drow Cam</a>  
+- <a href="https://github.com/geelstation/web"><img src="https://img.shields.io/badge/🌐-Web-00FFFF?style=for-the-badge&logo=google-chrome&logoColor=white"/> Web Project</a>  
+- <a href="https://github.com/geelstation/login%20ui%20flutter"><img src="https://img.shields.io/badge/📱-Login_UI_Flutter-FF00FF?style=for-the-badge&logo=flutter&logoColor=white"/> Login UI Flutter</a>  
+- <a href="https://github.com/geelstation/Project4"><img src="https://img.shields.io/badge/⚡-Project4-00FF00?style=for-the-badge&logo=github&logoColor=white"/> Project 4</a>  
+- <a href="https://github.com/geelstation/AI-Project"><img src="https://img.shields.io/badge/🤖-AI-Project-FF5733?style=for-the-badge&logo=openai&logoColor=white"/> AI Project</a>  
+
+</div>
 
 ---
 
